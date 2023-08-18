@@ -18,6 +18,7 @@ function Header() {
                 <li><a href="">SignIn</a></li>
             </ul>
         </div>
+        <div>Hello world</div>
         </div>
     )
 }
