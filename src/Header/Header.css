@@ -1,0 +1,18 @@
+*{
+    background-color: black;
+    color: white;
+}
+.head{
+ color: rgb(215, 215, 250);
+ border: blueviolet;
+ margin: 1rem; 
+}
+.room {
+    list-style: none; 
+    justify-content:space-around;
+    width: 50%;
+}
+.login{
+    list-style: none;
+    justify-content: space-between;
+}
